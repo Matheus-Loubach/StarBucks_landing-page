@@ -47,7 +47,7 @@
 .back{
   background-color: #036635;
   border-top-left-radius: 700px;
-  width: 800px;
+  width: 700px;
   height: 550px;
   margin-right: -40%;
   justify-content: center;
@@ -72,6 +72,7 @@ animation: 5s copo ease-in-out infinite;
 }
 
 .back2 > button{
+  margin-right: 100px;
   padding: 10px;
   width: 100px;
   background-color:#ffffff;
