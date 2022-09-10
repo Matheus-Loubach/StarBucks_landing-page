@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# StarBucks_landing-page
 
-StarBucks_landing-page
+
 
 ## Available Scripts
 
