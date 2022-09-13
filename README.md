@@ -7,8 +7,10 @@
 # Stack Utilizada
 ReactJS, JavaScript, CSS, HTML
 Com utlização de hooks: UseState.
+Efeitos com css.
+Animação com a opção de trocar de sabores,Escolhendo um copo.
 
-Jogue: https://star-bucks-landing-page-beta.vercel.app
+Acesse: https://star-bucks-landing-page-beta.vercel.app
 
 ## Available Scripts
 
